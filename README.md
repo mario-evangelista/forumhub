@@ -37,7 +37,7 @@ Projeto desenlvido para o curso: "Praticando Spring Framework: Challenge Fórum 
 
 Para mais informações, entre em contato através do email: mario@gmail.com
 
-**Link do Projeto:** [https://github.com/mario-evangelista/literalura](https://github.com/mario-evangelista/literalura)
+**Link do Projeto:** [https://github.com/mario-evangelista/forumhub](https://github.com/mario-evangelista/forumhub)
 <br>
 **Meu Perfil na Alura:** [https://cursos.alura.com.br/user/mariojbe](https://cursos.alura.com.br/user/mariojbe)
 
