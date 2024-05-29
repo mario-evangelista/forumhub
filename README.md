@@ -1,4 +1,4 @@
-# ForumHub API
+# Fórum Hub API
 
 ## Descrição
 A ForumHub API é uma aplicação desenvolvida em Spring Boot que oferece funcionalidades de gerenciamento de tópicos em um fórum online. Os usuários podem criar, visualizar, atualizar e excluir tópicos, além de autenticar-se para acessar as funcionalidades protegidas da API. 
