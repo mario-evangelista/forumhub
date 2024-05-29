@@ -31,7 +31,8 @@ Projeto desenlvido para o curso: "Praticando Spring Framework: Challenge Fórum 
 3. Configure o banco de dados MySQL e atualize as informações de conexão no arquivo `application.properties`.
 4. Execute a aplicação Spring Boot.
 5. Acesse a interface gráfica do Swagger em `http://localhost:8080/swagger-ui.html` para visualizar e testar os endpoints da API.
-<br>
+
+
 ## Contato
 
 Para mais informações, entre em contato através do email: mario@gmail.com
