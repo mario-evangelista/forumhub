@@ -28,11 +28,11 @@ Projeto desenlvido para o curso: "Praticando Spring Framework: Challenge Fórum 
 
 1. No terminal, digitar o seguinte comando na pasta raiz do projeto:
    ```
-   opensssl genrsa > app.key
+   cd src\main\resources
    ```
 2. No terminal, dentro da pasta "src\main\resources" digitar o seguinte comando para gerar a chave privada:
    ```
-   cd src\main\resources
+   opensssl genrsa > app.key
    ```
 3. No terminal, dentro da pasta "src\main\resources" digitar o seguinte comando para gerar a chave pública:
    ```
