@@ -30,4 +30,5 @@ A ForumHub API é uma aplicação desenvolvida em Spring Boot que oferece funcio
 4. Execute a aplicação Spring Boot.
 5. Acesse a interface gráfica do Swagger em `http://localhost:8080/swagger-ui.html` para visualizar e testar os endpoints da API.
 
+<br>
 Developed by Mário Evangelista
