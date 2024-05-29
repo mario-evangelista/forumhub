@@ -8,8 +8,10 @@ A ForumHub API é uma aplicação desenvolvida em Spring Boot que oferece funcio
 - Spring Boot 3
 - Maven
 - MySQL
+- Flyway Migration
 - Spring Data JPA
 - Spring Security
+- OAuth2 Resource Server
 - JSON Web Token (JWT)
 - SpringFox Swagger
 
@@ -23,13 +25,9 @@ A ForumHub API é uma aplicação desenvolvida em Spring Boot que oferece funcio
    ```
    git clone https://github.com/mario-evangelista/forumhub.git
    ```
-2. Importe o projeto em sua IDE favorita (ex: IntelliJ IDEA, Eclipse).
+2. Importe o projeto em sua IDE favorita (ex: IntelliJ IDEA, Eclipse, NetBeans).
 3. Configure o banco de dados MySQL e atualize as informações de conexão no arquivo `application.properties`.
 4. Execute a aplicação Spring Boot.
 5. Acesse a interface gráfica do Swagger em `http://localhost:8080/swagger-ui.html` para visualizar e testar os endpoints da API.
 
-## Contribuindo
-Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request com melhorias, correções de bugs, ou novas funcionalidades.
-
-## Licença
-Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT).
+Developed by Mário Evangelista
